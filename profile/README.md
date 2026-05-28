@@ -2,7 +2,7 @@ _Ecdysis Foundation is all about grower-focused research to transform agricultur
 
 Learn more about our organization at [ecdysis.bio](https://www.ecdysis.bio/)
 
-![A bee from the Ecdysis Foundation Arthropod collection](/bee.jpeg)
+![A lady beetle cropped from a scanned sample image panorama](/ladybeetlecropped350.png)
 
 Our open source applications primarily relate to the study of arthropod biodiversity using computer vision. A public collection of arthropods is available at [bugbox.ecdysis.bio](https://bugbox.ecdysis.bio/about/). This application's code, [bugbox_open](https://github.com/EcdysisFoundation/bugbox_open), is setup for hybrid deployment where computationally intensive methods and services happen on a local network using edge servers, while cloud/public access is also available through a Heroku instance.
 
